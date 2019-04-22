@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>pause.png</file>
+        <file>play.png</file>
+        <file>stop.png</file>
+        <file>dropdownarrow.png</file>
+        <file>forward.png</file>
+        <file>skip.png</file>
+        <file>folderIcon.png</file>
+        <file>saveIcon.png</file>
+        <file>editIcon.png</file>
+        <file>settingsIcon.png</file>
+        <file>mazeIcon.png</file>
+        <file>databaseOpenIcon.png</file>
+        <file>databaseSaveIcon.png</file>
+        <file>exitIcon.png</file>
+        <file>csvIcon.png</file>
+        <file>pngIcon.png</file>
+        <file>question.png</file>
+    </qresource>
+    <qresource prefix="/languages">
+        <file>english.json</file>
+        <file>ukrainian.json</file>
+        <file>russian.json</file>
+    </qresource>
+</RCC>
