@@ -1,1 +1,1 @@
-Program searches for the shortest path in drawn or generated room with chosen algorythm
+Program searches for the shortest path in drawn or generated room with chosen algorithm
